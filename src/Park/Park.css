@@ -1,0 +1,30 @@
+.parkWrapper {
+    background-image: url(../img/park/park.png);
+    background-color: lightblue;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.chatPark {
+  height: 30vh;
+  width: 15vw;
+  background-color: gainsboro;
+  color: black;
+  position: absolute;
+  left: 45vw;
+  top: 15vh;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 2vh;
+  padding: 15px;
+}
+
+.parkMan {
+  height: 80vh;
+  width: 70vw;
+  position: absolute;
+  top: 15vh;
+}

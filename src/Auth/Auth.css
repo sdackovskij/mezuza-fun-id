@@ -1,0 +1,29 @@
+.loginForm {
+  height: 220px;
+  width: 200px;
+  background-color: #eee;
+  position: absolute;
+  z-index: 100;
+  padding: 20px;
+  border-radius: 4px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.app {
+  height: 100%;
+  width: 100%;
+  background-color: #1a1a1d;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#tsparticles {
+  height: 100%;
+  width: 100%;
+}

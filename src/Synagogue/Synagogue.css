@@ -1,0 +1,9 @@
+.synagogueWrapper {
+    background-image: url(../img/synagogue/synagogue.png);
+    background-color: lightblue;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+}

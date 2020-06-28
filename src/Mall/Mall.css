@@ -1,0 +1,8 @@
+.mallWrapper {
+    background-image: url(../img/mall/mall.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+}

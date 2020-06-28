@@ -1,0 +1,8 @@
+.stationWrapper {
+    background-image: url(../img/station/station.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+}

@@ -1,0 +1,9 @@
+.museumWrapper {
+    background-image: url(../img/museum/museum.png);
+    background-color: midnightblue;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+}
